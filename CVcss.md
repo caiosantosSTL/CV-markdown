@@ -2,31 +2,16 @@
 
 ## Game dev
 
-<img src="imgs/game-console-svgrepo-com.svg"  class="center">
+<img src="imgs/game-console-svgrepo-com.svg"  >
 
-<style>
-    .center {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 10%;
-      }
-
-      .center2 {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 20px;
-      }
-</style>
 
 ## Unity Engine // Godot Engine
 
-<img src="imgs/Godot_logo.svg" width="50%" class="center2">
+<img src="imgs/Godot_logo.svg" width="50%" >
 
 >Godot Engine logo
 
-<img src="imgs/unity-tab-circle-black.png" width="30%" class="center2">
+<img src="imgs/unity-tab-circle-black.png" width="30%" >
 
 >Unity Engine logo
 
@@ -53,13 +38,13 @@
 
 ## Frameworks
 
-<img src="imgs/800px-Laravel.svg.png" width="30%" class="center2">
+<img src="imgs/800px-Laravel.svg.png" width="30%" >
 
 >Laravel
 
 ***
 
-<img src="imgs/django-logo-negative.svg" width="40%" class="center2">
+<img src="imgs/django-logo-negative.svg" width="40%" >
 
 >Django
 
@@ -70,6 +55,6 @@
 
 ## LMMS
 
-<img src="imgs/Lmms_logo.png" class="center2" width="30%">
+<img src="imgs/Lmms_logo.png"  width="30%">
 
 ----------------> [LMMS projects](https://soundcloud.com/caiosds)

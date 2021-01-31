@@ -2,7 +2,7 @@
 
 ## Game dev
 
-<img src="imgs/game-console-svgrepo-com.svg"  >
+<img src="imgs/game-console-svgrepo-com.svg" width="50%" >
 
 
 ## Unity Engine // Godot Engine

@@ -10,7 +10,7 @@
 
 > Godot Engine logo
 
-![unity-tab-circle-black1.png](C:\Users\Roberto\Documents\MD%20arkivos\cv%20em%20md\imgs\unity-tab-circle-black1.png)
+![unity-tab-circle-black1.png](/imgs/unity-tab-circle-black1.png)
 
 > Unity Engine logo
 
@@ -36,7 +36,7 @@
 
 ## Frameworks
 
-![800px-Laravel1.png](C:\Users\Roberto\Documents\MD%20arkivos\cv%20em%20md\imgs\800px-Laravel1.png)
+![800px-Laravel1.png](/imgs/800px-Laravel1.png)
 
 > Laravel
 
@@ -54,6 +54,6 @@
 
 ## LMMS
 
-![Lmms_logo1.png](C:\Users\Roberto\Documents\MD%20arkivos\cv%20em%20md\imgs\Lmms_logo1.png)
+![Lmms_logo1.png](/imgs/Lmms_logo1.png)
 
 ----------------> [LMMS projects](https://soundcloud.com/caiosds)

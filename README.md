@@ -46,7 +46,7 @@
 
 > Django
 
-![Flask logo]()
+![Flask logo](imgs/flasklogo.png)
 
 > Flask
 

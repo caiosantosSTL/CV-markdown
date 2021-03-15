@@ -46,9 +46,7 @@
 
 > Django
 
-
-
-![flasklogo.png](C:\Users\Roberto\Documents\MD%20arkivos\cv%20em%20md\imgs\flasklogo.png)
+![flasklogo.png](img/flasklogo.png)
 
 > Flask
 
